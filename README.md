@@ -7,8 +7,7 @@
 👤 Anggota Kelompok
 
 – Elghiariel Sima TONGA NIM: IK2411035
-
-–Jaya Rose Bomba O.G NIM: IK2411007
+– Jaya Rose Bomba O.G NIM: IK2411007
 
 📖 Deskripsi Proyek
 Proyek ini merupakan implementasi sistem akademik sederhana menggunakan MySQL dengan pendekatan Stored Procedure. Sistem ini dirancang untuk mengelola data mahasiswa, melakukan validasi akademik, serta menentukan kelayakan pengambilan KRS secara otomatis.
