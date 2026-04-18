@@ -6,6 +6,7 @@
 
 👤 Anggota Kelompok
 – Elghiariel Sima TONGA NIM: IK2411035
+
 –Jaya Rose Bomba O.G NIM: IK2411007
 
 📖 Deskripsi Proyek
